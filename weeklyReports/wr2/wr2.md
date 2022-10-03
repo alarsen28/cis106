@@ -19,7 +19,7 @@ Definition: "A virtual desktop infrastructure"
 
 Client-side virtualization
 Definition: "Software installed on a computer to manage virtual machines"
-![client side](clinetside.png)
+![client side](clientside.png)
 
 ## Installing Ubuntu in virtualization 
 1. Ubuntu Update
