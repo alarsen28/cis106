@@ -22,8 +22,11 @@ course: CIS106 - Linux fund
 ![q3](q3pt4.png)
 
 ## Question 4: Challenge Question
+![q4](q4.pt1.png)
+![q4](q4.pt2.png)
 ![q4](q4.p3.p4.png)
 ![q4](q4.pt5.png)
 ![q4](q4.pt6.png)
 ![q4](q4.pt7.png)
 ![q4](q4.pt9.png)
+![q4](q4.pt10.png)
