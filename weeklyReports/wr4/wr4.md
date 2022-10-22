@@ -4,16 +4,16 @@ Semester: Fall 22
 Course: CIS 106 - Linux fund
 ---
 ## Practice
-[w4](wr4./prac1.png)
-[w4](wr4./prac2.png)
-[w4](wr4./prac3.png)
-[w4](wr4./prac4.png)
-[w4](wr4./prac5.png)
-[w4](wr4./prac6.png)
-[w4](wr4./prac7.png)
-[w4](wr4./prac8.png)
-[w4](wr4./prac9.png)
-[w4](wr4./prac10.png)
+![wr4](prac1.png)
+![wr4](prac2.png)
+![wr4](prac3.png)
+![wr4](prac4.png)
+![wr4](prac5.png)
+![wr4](prac6.png)
+![wr4](prac7.png)
+![wr4](prac8.png)
+![wr4](prac9.png)
+![wr4](prac10.png)
 
 ## The Filesystem
 | Directory | Data Stored In Directory                                                                                                                       |
