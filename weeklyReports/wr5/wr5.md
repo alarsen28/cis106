@@ -68,6 +68,7 @@ To copy directories you must use the -r option
 ![wr5](cq2.png)
 
 ## Practice 3
+![wr5](cq3.png)
 ![wr5](cq3p1.png)
 ![wr5](cq3p2.png)
 
