@@ -9,7 +9,7 @@ semester: fall 22
 ## Wild Cards.
 Wildcard represents letters and characters used to specify a file name for searches. 
 The importance of wildcard would be that:
-1. YOu can use a wildcard to get a long lst of all files in the current directory starting with "new"
+1. You can use a wildcard to get a long lst of all files in the current directory starting with "new"
 2. Move or delete a group of files
 3. Create files and directories quicker.
 
